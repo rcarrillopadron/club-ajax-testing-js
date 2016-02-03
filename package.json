@@ -1,0 +1,23 @@
+{
+  "name": "club-ajax-testing-js",
+  "version": "1.0.0",
+  "description": "Demos from presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcarrillopadron/club-ajax-testing-js.git"
+  },
+  "keywords": [
+    "Club",
+    "Ajax"
+  ],
+  "author": "Roberto Carrillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcarrillopadron/club-ajax-testing-js/issues"
+  },
+  "homepage": "https://github.com/rcarrillopadron/club-ajax-testing-js#readme"
+}
